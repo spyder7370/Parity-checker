@@ -1,7 +1,7 @@
 //-------CONFIGURATION
 name: Even Parity Checker using Turing Machine
 init: q0
-accept: q3,q6
+accept: q6
 
 //-------DELTA FUNCTION:
 q0,0
